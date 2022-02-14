@@ -1,5 +1,5 @@
 # Torch-Warmup
-The Easiest way to use learning rate warmup method on PyTorch, **as far as I know**.
+The easiest way to use learning rate warmup method on PyTorch, **as far as I know**.
 
 # INSTALLATION
 
