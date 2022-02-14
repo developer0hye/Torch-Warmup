@@ -28,3 +28,5 @@ while not converged do: #pseudocode
   ...
 end while
 ```
+
+Please see the [warmup.ipynb](./warmup.ipynb) file for more information.
